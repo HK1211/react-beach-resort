@@ -1,19 +1,19 @@
-import room1 from "./images/details-1.jpeg";
-import room2 from "./images/details-2.jpeg";
-import room3 from "./images/details-3.jpeg";
-import room4 from "./images/details-4.jpeg";
-import img1 from "./images/room-1.jpeg";
-import img2 from "./images/room-2.jpeg";
-import img3 from "./images/room-3.jpeg";
-import img4 from "./images/room-4.jpeg";
-import img5 from "./images/room-5.jpeg";
-import img6 from "./images/room-6.jpeg";
-import img7 from "./images/room-7.jpeg";
-import img8 from "./images/room-8.jpeg";
-import img9 from "./images/room-9.jpeg";
-import img10 from "./images/room-10.jpeg";
-import img11 from "./images/room-11.jpeg";
-import img12 from "./images/room-12.jpeg";
+const room1 = "/static/images/details-1.jpeg";
+const room2 = "/static/images/details-2.jpeg";
+const room3 = "/static/images/details-3.jpeg";
+const room4 = "/static/images/details-4.jpeg";
+const img1 = "/static/images/room-1.jpeg";
+const img2 = "/static/images/room-2.jpeg";
+const img3 = "/static/images/room-3.jpeg";
+const img4 = "/static/images/room-4.jpeg";
+const img5 = "/static/images/room-5.jpeg";
+const img6 = "/static/images/room-6.jpeg";
+const img7 = "/static/images/room-7.jpeg";
+const img8 = "/static/images/room-8.jpeg";
+const img9 = "/static/images/room-9.jpeg";
+const img10 = "/static/images/room-10.jpeg";
+const img11 = "/static/images/room-11.jpeg";
+const img12 = "/static/images/room-12.jpeg";
 
 export default [
   {
